@@ -1,0 +1,12 @@
+.logo {
+	display: flex;
+            justify-content: center;
+}
+.logo-fixed-size {
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+.free-web-title {
+	line-height: 2em;
+}
